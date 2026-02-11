@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Trợ lý AI hỗ trợ giáo viên soạn đề kiểm tra Toán 9",
+  "description": "Ứng dụng hỗ trợ giáo viên Toán 9 soạn bài tập, đề kiểm tra bám sát ma trận năng lực chương trình 2018 với sự hỗ trợ của AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
